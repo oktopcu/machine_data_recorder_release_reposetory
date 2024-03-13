@@ -1,0 +1,51 @@
+/*import global style variables*/
+@import url('../variables.css');
+
+/*set default select style properties*/
+select {
+    cursor: pointer;
+    color: var(--one_white);
+    font-size: var(--standard_font_size);
+    padding: 4%;
+    margin: var(--standard_component_padding);
+    border-radius: var(--standard_border_radius);
+    border: var(--standard_no_border);
+    background-color: var(--one_transparent);
+}
+
+/*set default select component active style properties*/
+select:focus {
+    outline: none !important;
+    border: .5px solid var(--one_blue);
+}
+
+/*set select item option style properties*/
+option {
+    color: var(--one_transparent);
+    background-color: var(--one_transparent);
+}
+
+/*set default radio button style properties*/
+input[type=radio], input[type=checkbox], input[type=number] {
+    user-select: none;
+    accent-color: var(--one_blue);
+}
+
+/*set default input style properties*/
+input {
+    cursor: pointer;
+    color: var(--one_white);
+    padding: var(--standard_component_padding);
+    border-radius: var(--standard_border_radius);
+    border: var(--standard_no_border);
+}
+
+/*set numeric input style properties*/
+.numeric-input-style-properties {
+    width: auto;
+    height: auto;
+    margin-top: 2%;
+    padding: 4%;
+    background-color: var(--one_dark_background);
+
+}

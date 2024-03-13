@@ -1,0 +1,87 @@
+/*import global style variables*/
+@import url('../variables.css');
+
+/*set dafault dialog style properties*/
+dialog {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: var(--one_white);
+    padding: var(--standard_component_padding);
+    border: var(--standard_no_border);
+    border-radius: var(--standard_border_radius);
+    background-color: var(--one_lighter_background);
+}
+
+/*set default modal style properties*/
+.default-modal-style {
+    width: 35%;
+    height: auto;
+}
+
+/*set default inforamtion dialog style properties*/
+.default-information-dialog-style {
+    width: 50%;
+    height: auto;
+}
+
+/*set loading modal style properties*/
+.loading-modal-style-properties {
+    user-select: none;
+    display: flex;
+    flex-direction: column;
+    width: 20%;
+    text-align: center;
+    align-items: center;
+    padding-top: 3%;
+    padding-bottom: 3%;
+    opacity: .85;
+}
+
+/*set machine creator step bar style properties*/
+.machine-creator-step-bar-style-properties {
+    margin-bottom: 4%;
+    border-radius: var(--standard_border_radius);
+    background-color: var(--one_dark_background);
+    overflow-y: auto;
+}
+
+/*set left side machine creator container style properties*/
+.left-side-machine-creator-container-style-properties {
+    user-select: none;
+    text-align: center;
+    justify-content: center;
+    width: 35%;
+    padding-top: 4%;
+    padding-bottom: 2%;    
+    margin-right: 3%;
+    border-radius: var(--standard_border_radius);
+    background-color: var(--one_dark_background);
+}
+
+/*set right side machine creator container style properties*/
+.right-side-machine-creator-container-style-properties {
+    height: 265px;
+    min-height: 265px;
+    max-height: 265px;
+    overflow-y: auto;
+    margin-top: -3%;
+}
+
+/*set create and finish information text component style properties*/
+.create-finish-information-text-container-style-properties {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 4%;
+}
+
+/*set create and finish bottom container style properties*/
+.create-finish-bottom-container-style-properties {
+    position: fixed;
+    bottom: 0;
+    margin-bottom: 2%;
+    margin-right: 4%;
+}

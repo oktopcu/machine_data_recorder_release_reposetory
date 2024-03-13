@@ -1,0 +1,47 @@
+[
+    {
+        "pageMenuItemID":"ptHome",
+        "pageMenuItemDescription":"Tab for general overview information",
+        "pageMenuItemName":"Home",
+        "pageMenuItemHoverText":"Open the Home Tab",
+        "pageMenuItemImageFile":"assets/images/icons/general/Icon_Home_IOS_Gray.png",
+        "pageMenuItemFileURL":" ",
+        "pageMenuItemAddedDate":"2024-01-20 13:00:00"
+    },
+    {
+        "pageMenuItemID":"ptMachineManager",
+        "pageMenuItemDescription":"Tab for total machine manager overview",
+        "pageMenuItemName":"Machine Manager",
+        "pageMenuItemHoverText":"Open the Machine Tab",
+        "pageMenuItemImageFile":"assets/images/icons/general/Icon_Machine_IOS_Gray.png",
+        "pageMenuItemFileURL":"machineManager",
+        "pageMenuItemAddedDate":"2024-01-20 13:00:00"
+    },    
+    {
+        "pageMenuItemID":"ptMachineSettings",
+        "pageMenuItemDescription":"Tab for setting general frontend settings",
+        "pageMenuItemName":"Settings",
+        "pageMenuItemHoverText":"Open the General Setting Tab",
+        "pageMenuItemImageFile":"assets/images/icons/general/Icon_Settings_IOS_Gray.png",
+        "pageMenuItemFileURL":"generalSettings",
+        "pageMenuItemAddedDate":"2024-01-20 13:00:00"
+    },
+    {
+        "pageMenuItemID":"ptHelpCenter",
+        "pageMenuItemDescription":"Tab to open the help center",
+        "pageMenuItemName":"Help Center",
+        "pageMenuItemHoverText":"Open the Help Center Tab",
+        "pageMenuItemImageFile":"assets/images/icons/general/Icon_Help_IOS_Gray.png",
+        "pageMenuItemFileURL":"helpCenter",
+        "pageMenuItemAddedDate":"2024-01-20 13:00:00"
+    },
+    {
+        "pageMenuItemID":"ptShop",
+        "pageMenuItemDescription":"Tab to open the shop",
+        "pageMenuItemName":"Shop",
+        "pageMenuItemHoverText":"Open the Shop Tab",
+        "pageMenuItemImageFile":"assets/images/icons/general/Icon_Shop_IOS_Gray.png",
+        "pageMenuItemFileURL":"shop",
+        "pageMenuItemAddedDate":"2024-01-20 13:00:00"
+    }
+]

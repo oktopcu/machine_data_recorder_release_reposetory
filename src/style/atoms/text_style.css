@@ -1,0 +1,32 @@
+/*import global style variables*/
+@import url('../variables.css');
+
+/*set default text style properties*/
+span {
+    color: var(--one_white);
+}
+
+/*set image/ text container style properties*/
+.image-text-container-style-properties {
+    user-select: none;
+    display: flex;
+    height: auto;
+    width: 96%;
+    padding: var(--standard_component_padding);
+    align-items: center;
+}
+
+/*set default link container style properties*/
+.default-link-container-style-properties {
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    white-space: nowrap;
+}
+
+/*set inforamtion text style properties*/
+.information-text-style-properties {
+    color: gray;
+    font-weight: bold;
+}
+

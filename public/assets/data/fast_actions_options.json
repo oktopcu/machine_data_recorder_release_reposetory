@@ -1,0 +1,13 @@
+[
+    {
+        "listID":1,
+        "fastActionsOptionID":"faoLogout",
+        "fastActionsOptionHoverText":"Logout",
+        "fastActionsOptionImageFile":"/assets/images/icons/general/Icon_Logout_IOS_ONE_Blue.png",
+        "fastActionsOptionFunctionValue":"",
+        "fastActionsDefaultSet":true,
+        "fastActionsOptionAddedData":"2024-02-05 15:00:00"
+    }
+
+
+]

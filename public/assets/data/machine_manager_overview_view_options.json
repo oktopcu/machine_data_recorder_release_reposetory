@@ -1,0 +1,92 @@
+[
+    {
+        "listID":1,
+        "machineManagerOverviewViewDescription":"Machine Manager overview view",
+        "machineManagerOverviewViewID":"mmOverviewView",
+        "machineManagerOverviewViewText":"Oveview",
+        "machineManagerOverviewViewHoverText":"See a Overview of yout machine",
+        "machineManagerOverviewViewImage":"assets/images/icons/general/Icon_Control_Panel_IOS_Gray.png",
+        "machineManagerOverviewViewType":true,
+        "machineManagerOverviewViewAddedDate":"2024-02-21 13:50:00"
+    },
+    {
+        "listID":2,
+        "machineManagerOverviewViewDescription":"Machine Manager machine data view",
+        "machineManagerOverviewViewID":"mmMachineDataView",
+        "machineManagerOverviewViewText":"Machine Data",
+        "machineManagerOverviewViewHoverText":"See all the data provided by your machine",
+        "machineManagerOverviewViewImage":"assets/images/icons/general/Icon_Data_Graph_IOS_Gray.png",
+        "machineManagerOverviewViewType":true,
+        "machineManagerOverviewViewAddedDate":"2024-02-21 13:50:00"
+    },
+    {
+        "listID":3,
+        "machineManagerOverviewViewDescription":"Machine Manager machine log",
+        "machineManagerOverviewViewID":"mmMachineLogView",
+        "machineManagerOverviewViewText":"Machine Log",
+        "machineManagerOverviewViewHoverText":"See the Log data of your machine",
+        "machineManagerOverviewViewImage":"assets/images/icons/general/Icon_Machine_Log_IOS_Gray.png",
+        "machineManagerOverviewViewType":true,
+        "machineManagerOverviewViewAddedDate":"2024-02-21 13:50:00"
+    },
+    {
+        "listID":4,
+        "machineManagerOverviewViewDescription":"Machine Manager predictive maintenance",
+        "machineManagerOverviewViewID":"mmPredictiveMaintenanceView",
+        "machineManagerOverviewViewText":"Predictive Maintenance",
+        "machineManagerOverviewViewHoverText":"Get information for Predictive Maintenance of your machine",
+        "machineManagerOverviewViewImage":"assets/images/icons/general/Icon_Tools_IOS_Gray.png",
+        "machineManagerOverviewViewType":true,
+        "machineManagerOverviewViewAddedDate":"2024-02-21 13:50:00"
+    },
+    {
+        "listID":5,
+        "machineManagerOverviewViewDescription":null,
+        "machineManagerOverviewViewID":null,
+        "machineManagerOverviewViewText":null,
+        "machineManagerOverviewViewHoverText":null,
+        "machineManagerOverviewViewImage":null,
+        "machineManagerOverviewViewType":false,
+        "machineManagerOverviewViewAddedDate":null
+    },
+    {
+        "listID":6,
+        "machineManagerOverviewViewDescription":"Machine Manager machine properties",
+        "machineManagerOverviewViewID":"mmMachineProperties",
+        "machineManagerOverviewViewText":"Machine Properties",
+        "machineManagerOverviewViewHoverText":"Set the properties of your machine",
+        "machineManagerOverviewViewImage":"assets/images/icons/general/Icon_Binary_Code_IOS_Gray.png",
+        "machineManagerOverviewViewType":true,
+        "machineManagerOverviewViewAddedDate":"2024-02-21 13:50:00"
+    },
+    {
+        "listID":7,
+        "machineManagerOverviewViewDescription":"Machine Manager Data Recorder Properties",
+        "machineManagerOverviewViewID":"mmDataRecorderProperties",
+        "machineManagerOverviewViewText":"Data Recorder Properties",
+        "machineManagerOverviewViewHoverText":"Set the properties of the Data Recorder",
+        "machineManagerOverviewViewImage":"assets/images/icons/general/Icon_Data_Recorder_IOS_Gray.png",
+        "machineManagerOverviewViewType":true,
+        "machineManagerOverviewViewAddedDate":"2024-02-21 13:50:00"
+    },
+    {
+        "listID":8,
+        "machineManagerOverviewViewDescription":null,
+        "machineManagerOverviewViewID":null,
+        "machineManagerOverviewViewText":null,
+        "machineManagerOverviewViewHoverText":null,
+        "machineManagerOverviewViewImage":null,
+        "machineManagerOverviewViewType":false,
+        "machineManagerOverviewViewAddedDate":null
+    },
+    {
+        "listID":9,
+        "machineManagerOverviewViewDescription":"Machine Manager machine for variable editor",
+        "machineManagerOverviewViewID":"mmVariableEditorView",
+        "machineManagerOverviewViewText":"Variable Editor",
+        "machineManagerOverviewViewHoverText":"See all the PLC variables and create a action",
+        "machineManagerOverviewViewImage":"assets/images/icons/general/Icon_Variable_IOS_Gray.png",
+        "machineManagerOverviewViewType":true,
+        "machineManagerOverviewViewAddedDate":"2024-02-21 13:50:00"
+    }
+]

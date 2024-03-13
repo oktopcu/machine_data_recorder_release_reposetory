@@ -1,0 +1,18 @@
+/*global variables to set public style properties*/
+:root{
+    --standard_font_style: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    --one_dark_background: #121212;
+    --one_lighter_background: #181818;
+    --one_blue: #509CF5;
+    --one_white: white;
+    --one_black: black;
+    --one_gray: gray;
+    --one_red: red;
+    --one_green: green;
+    --one_transparent: transparent;
+    --standard_font_size: 15px;
+    --standard_component_padding: 1%;
+    --standard_no_border: 0;
+    --standard_border_radius: 10px;
+    --circle_border_radius: 50%;
+}

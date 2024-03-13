@@ -1,0 +1,20 @@
+{
+  "short_name": "MDR by ONE",
+  "name": "Machine Data Recorder",
+  "icons": [
+    {
+      "src": "./assets/images/logos/internal/My_Bill_Logo_1_Final.png",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "./assets/images/logos/internal/My_Bill_Logo_2_Final.png",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#121212"
+}

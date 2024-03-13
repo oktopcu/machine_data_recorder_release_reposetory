@@ -1,0 +1,51 @@
+/*import global style variables*/
+@import url("./variables.css");
+
+/*set default style properties to body*/
+body {
+    font-family: (--standard_font_style);
+    color: var(--one_white);
+    font-size: var(--standard_font_size);
+    background-color: var(--one_dark_background);
+    caret-color: var(--one_blue);
+}
+
+/*set default header style propertie*/
+h {
+    user-select: none;
+}
+
+/*set default link style properties*/
+a {
+    cursor: pointer;
+    text-decoration: none;
+    color: var(--one_blue);
+    user-select: none;
+}
+
+/*set default link hover style properties*/
+a:hover {
+    text-decoration: underline;
+}
+
+/*set default horizontal divider line style properties*/
+hr {
+    border-radius: var(--standard_border_radius);
+    background-color: gray;
+}
+
+/*set app container style properties*/
+.App{
+    font-family: var(--standard_font_style);
+    font-size: var(--standard_font_size);
+    padding: 2%;
+    background-color: var(--one_dark_background);
+    color: var(--one_white);
+}
+
+/*set default route page style properties*/
+.default-route-page-style{
+    width: 100%;
+    height: auto;
+}
+

@@ -1,0 +1,14 @@
+/*import global style variables*/
+@import url('../variables.css');
+
+/*define vertical spacer style properties*/
+.vertical-spacer-style-properties {
+    height: auto;
+    width: 40px;
+}
+
+/*define horizontal spacer style properties*/
+.horizontal-spacer-style-properties {
+    height: 40px;
+    width: auto;
+}

@@ -1,0 +1,90 @@
+/*import global style variables*/
+@import url('../variables.css');
+
+/*set default style properties to button element*/
+button {
+    cursor: pointer;
+    height: auto;
+    width: auto;
+    padding: var(--standard_component_padding);
+    border: var(--standard_no_border);
+    border-radius: var(--standard_border_radius);
+    background-color: var(--one_transparent);
+    user-select: none;
+}
+
+/*set default button hover style properties*/
+button:hover {
+    background-color: var(--one_lighter_background);
+}
+
+/*set default button click/ active style properties*/
+button:active {
+    background-color: blueviolet;
+}
+
+/*set image button style properties*/
+.image-button-style-properties {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+
+/*set round button style properties*/
+.round-button-style-properties {
+    background-color: transparent;
+    border-radius: var(--circle_border_radius);
+}
+
+/*set round button hover stye properties*/
+.round-button-style-properties:hover {
+    background-color: var(--one_lighter_background);
+}
+
+/*set image text button style properties*/
+.image-text-button-style-properties {
+    height: auto;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 2%;
+}
+
+/*set menu button style properties*/
+.menu-button-style {
+    display: flex;
+    height: auto;
+    width: 100%;
+    padding-top: 5.5%;
+    padding-bottom: 5.5%;
+    padding-left: 2.5%;
+    padding-right: 2.5%;
+    align-items: center;
+    font-size: 17px;
+    font-weight: bolder;
+    background-color: var(--one_transparent);
+}
+
+/*set top menu bar button style properties*/
+.top-menu-bar-button-style-properties {
+    display: flex;
+    height: auto;
+    width: auto;
+    border-radius: var(--standard_border_radius);
+    padding: var(--standard_component_padding);
+    margin: .5%;
+    align-items: center;
+    white-space: nowrap;
+}
+
+/*set bottom option menu button style properties*/
+.bottom-option-menu-button-style-properties {
+    padding: var(--standard_component_padding);
+    margin-left: 2%;
+    margin-right: 2%;
+    background-color: var(--one_blue);
+}

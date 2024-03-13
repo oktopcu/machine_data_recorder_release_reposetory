@@ -1,0 +1,16 @@
+/*import global style variables*/
+@import url('../variables.css');
+
+/*set default style properties to image element*/
+img {
+    border: var(--standard_no_border);
+    border-radius: var(--standard_border_radius);
+    user-select: none;
+}
+
+/*set information text image style properties*/
+.information-text-image-style-properties {
+    height: 22px;
+    width: 22px;
+    margin-right: 2%;
+}

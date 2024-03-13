@@ -1,0 +1,74 @@
+/*import global style variables*/
+@import url("../variables.css");
+
+/*set machine manager top options bar style properties*/
+.machine-manager-top-options-bar-style-properties {
+    margin-top: .5%;
+    margin-bottom: 1%;
+    margin-left: -1.5%;
+    padding: var(--standard_component_padding);
+}
+
+/*set machine options grid style properties*/
+.machine-options-grid-view-style-properties {
+    display: grid;
+    height: auto;
+    width: 100%;
+    grid-template-columns: auto auto;
+    overflow-y: auto;
+}
+
+/*set machine options list table style properties*/
+.machine-options-table-style-properties {
+    height: auto;
+    width: 100%;
+    height: max-content;
+    overflow-y: auto;
+}
+
+/*set machine option list item style properties*/
+.machine-option-list-item-style-properties {
+    cursor: pointer;
+    margin-top: var(--standard_component_padding);
+    margin-bottom: var(--standard_component_padding);
+    padding: var(--standard_component_padding);
+    border-radius: var(--standard_border_radius);
+}
+
+/*set right side list view information container style properties*/
+.right-side-list-view-information-view-style-properties {
+    position: relative;
+    width: 33%;
+    height: 70vh;
+    max-height: 70vh;
+    overflow-y: auto;
+    padding: var(--standard_component_padding);
+    border-radius: var(--standard_border_radius);
+    background-color: var(--one_lighter_background);
+}
+
+/*set main header style properties for list view information container*/
+.right-side-list-view-information-view-style-properties h2 {
+    margin-left: 4%;
+    color: var(--one_gray);
+}
+
+/*set machine manager overview top bar style properties*/
+.machine-manager-overview-top-bar-style-properties {
+    height: auto;
+    width: auto;
+    max-width: 100%;
+    border-radius: var(--standard_border_radius);
+    background-color: var(--one_lighter_background);
+    margin-top: .5%;
+    overflow-x: auto;
+}
+
+/*set machine overview grid style properties*/
+.machine-overview-grid-style-properties {
+    display: grid;
+    height: auto;
+    width: 100%;
+    grid-template-columns: auto auto auto;
+    overflow-y: auto;
+}

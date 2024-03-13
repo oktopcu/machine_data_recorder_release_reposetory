@@ -1,0 +1,51 @@
+[
+    {
+        "listID":1,
+        "stepBarComponentID":"mcsbStart",
+        "stepBarComponentText":null,
+        "stepBarComponentImage":"assets/images/icons/general/Icon_Home_IOS_ONE_Blue.png",
+        "stepBarComponentHoverText":"Start to create your machine",
+        "stepBarComponentAddedDate":"2024-02-29 16:50:00"
+    },
+    {
+        "listID":2,
+        "stepBarComponentID":"mcsbGeneral",
+        "stepBarComponentText":"General",
+        "stepBarComponentImage":null,
+        "stepBarComponentHoverText":"",
+        "stepBarComponentAddedDate":"2024-02-29 16:50:00"
+    },
+    {
+        "listID":3,
+        "stepBarComponentID":"mcsbDataRecorderProperties",
+        "stepBarComponentText":"Data Recorder Properties",
+        "stepBarComponentImage":null,
+        "stepBarComponentHoverText":"Define the properties of your Data Recorder",
+        "stepBarComponentAddedDate":"2024-02-29 16:50:00"
+    },
+    {
+        "listID":4,
+        "stepBarComponentID":"mcsbPlcProperties",
+        "stepBarComponentText":"PLC Properties",
+        "stepBarComponentImage":null,
+        "stepBarComponentHoverText":"Start to create your machine",
+        "stepBarComponentAddedDate":"2024-02-29 16:50:00"
+    },
+    {
+        "listID":5,
+        "stepBarComponentID":"mcsbMachineSecurity",
+        "stepBarComponentText":"Machine Security",
+        "stepBarComponentImage":null,
+        "stepBarComponentHoverText":"Start to create your machine",
+        "stepBarComponentAddedDate":"2024-02-29 16:50:00"
+    },
+    {
+        "listID":6,
+        "stepBarComponentID":"mcsbFinish",
+        "stepBarComponentText":null,
+        "stepBarComponentImage":"assets/images/icons/general/Icon_Finish_IOS_ONE_Blue.png",
+        "stepBarComponentHoverText":"Finish and create your Machine",
+        "stepBarComponentAddedDate":"2024-02-29 16:50:00"
+    }
+
+]

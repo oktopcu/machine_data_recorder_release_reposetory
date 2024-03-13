@@ -1,0 +1,50 @@
+/*import global style variables*/
+@import url('../variables.css');
+
+/*set vertical line style properties*/
+.vertival-line-style-properties {
+    height: inherit;
+    border-left: 1px solid gray;
+    border-radius: var(--standard_border_radius);
+}
+
+/*set information card style properties*/
+.information-card-style-properties {
+    cursor: pointer;
+    height: auto;
+    width: auto;
+    border-radius: var(--standard_border_radius);
+    border: var(--standard_no_border);
+    padding: var(--standard_component_padding);
+    background-color: var(--one_lighter_background);
+    margin: var(--standard_component_padding);
+}
+
+/*set multi button container style properties*/
+.multi-button-container-style-properties {
+    height: auto;
+    width: auto;
+    padding: var(--standard_component_padding);
+    border-radius: var(--standard_border_radius);
+    background-color: var(--one_dark_background);
+}
+
+/*set grid component style properties*/
+.grid-component-style-properties {
+    display: grid;
+    height: auto;
+    width: auto;
+    grid-template-columns: auto auto auto;
+    overflow-y: auto;
+}
+
+/*set information view component style properties*/
+.information-view-component-style-properties {
+    height: auto;
+    width: 98%;
+    padding-left: var(--standard_component_padding);
+    padding-right: var(--standard_component_padding);
+    padding-bottom: var(--standard_component_padding);
+    border-radius: var(--standard_border_radius);
+    margin-top: 4%;
+}

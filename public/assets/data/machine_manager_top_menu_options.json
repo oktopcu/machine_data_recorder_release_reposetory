@@ -1,0 +1,38 @@
+[
+    {
+        "listID":1,
+        "machineManagerTopMenuOptionID":"tmoAddNewMachine",
+        "machineManagerTopMenuOptionTitle":"Add a new Machine",
+        "machineManagerTopMenuOptionFunction":"",
+        "machineManagerTopMenuOptionImage":"/assets/images/icons/general/Icon_Add_IOS_ONE_Blue.png",
+        "machineManagerTopMenuOptionType":true,
+        "machineManagerTopMenuOptionAddedDate":"2024-02-26 17:15:00"
+    },
+    {
+        "listID":2,
+        "machineManagerTopMenuOptionID":"tmoRefreshMachines",
+        "machineManagerTopMenuOptionTitle":"Refresh you Machine Manager machine overview",
+        "machineManagerTopMenuOptionFunction":"",
+        "machineManagerTopMenuOptionImage":"/assets/images/icons/general/Icon_Refresh_IOS_ONE_Blue.png",
+        "machineManagerTopMenuOptionType":true,
+        "machineManagerTopMenuOptionAddedDate":"2024-02-26 17:15:00"
+    },
+    {
+        "listID":3,
+        "machineManagerTopMenuOptionID":null,
+        "machineManagerTopMenuOptionTitle":null,
+        "machineManagerTopMenuOptionFunction":null,
+        "machineManagerTopMenuOptionImage":null,
+        "machineManagerTopMenuOptionType":false,
+        "machineManagerTopMenuOptionAddedDate":null
+    },
+    {
+        "listID":4,
+        "machineManagerTopMenuOptionID":"tmoDeleteMachine",
+        "machineManagerTopMenuOptionTitle":"Delete the current selected machine",
+        "machineManagerTopMenuOptionFunction":"",
+        "machineManagerTopMenuOptionImage":"/assets/images/icons/general/Icon_Delete_IOS_Red.png",
+        "machineManagerTopMenuOptionType":true,
+        "machineManagerTopMenuOptionAddedDate":"2024-02-26 17:15:00"
+    }
+]

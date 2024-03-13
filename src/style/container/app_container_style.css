@@ -1,0 +1,61 @@
+/*import global style variables*/
+@import url('../variables.css');
+
+/*set left side container style properties*/
+.left-side-container-style {
+    height: 92vh;
+    width: 25%;
+    margin-right: 5%;
+    background-color: ;
+}
+
+/*set menu container style properties*/
+#menuContainer {
+    position: relative;
+    width: 100%;
+    height: 89%;
+    min-height: 89%;
+    max-height: 89%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    margin-top: 10%;
+}
+
+/*set main menu style properties*/
+.main-page-menu-style {
+    height: auto;
+    width: 100%;
+    min-height: 92%;
+    max-height: 92%;
+    overflow-y: auto;
+    border-radius: var(--standard_border_radius);
+    background-color: var(--one_lighter_background);
+}
+
+/*set bottom main page menu style properties*/
+.bottom-main-page-menu-container-style-properties {
+    position: absolute;
+    height: auto;
+    width: 90%;
+    bottom: 0%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+/*set fast action element container style properties*/
+.bottom-main-page-menu-container-style-properties #fastActionElementContainer {
+    height: auto;
+    width: 85%;
+    max-width: 85%;
+    margin-right: 5%;
+    overflow-x: auto;
+}
+
+/*set button option panel style properties*/
+.button-option-panel-style-properties {
+    height: auto;
+    width: fit-content;
+    padding: 1%;
+    margin: 1%;
+    border-radius: var(--standard_border_radius);
+}
